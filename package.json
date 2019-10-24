@@ -2,14 +2,9 @@
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
-<<<<<<< HEAD
-    "jquery": "^3.2.1",
-    "jquery-smooth-scroll": "^2.2.0",
-=======
     "jquery": "^3.4.0",
     "jquery-smooth-scroll": "2.2.0",
->>>>>>> bff43fd46d76d31b2753602930fdc0fdd1d4a4b0
-    "lazysizes": "4.0.1",
+    "lazysizes": "^4.0.1",
     "normalize.css": "^7.0.0",
     "picturefill": "3.0.2",
     "waypoints": "^4.0.1"
